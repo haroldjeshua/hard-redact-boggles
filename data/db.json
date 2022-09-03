@@ -1,0 +1,28 @@
+{
+	"blogs": [
+		{
+			"title": "My new blog",
+			"body": "lorem ipsum 123...",
+			"author": "harold",
+			"id": 1
+		},
+		{
+			"title": "Welcome blog",
+			"body": "lorem ipsum 456...",
+			"author": "jeshua",
+			"id": 2
+		},
+		{
+			"title": "Welcome blog",
+			"body": "lorem ipsum 789...",
+			"author": "varde",
+			"id": 3
+		},
+		{
+			"title": "survival101",
+			"body": "lorem ipsum 000...",
+			"author": "harold",
+			"id": 4
+		}
+	]
+}
