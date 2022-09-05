@@ -1,12 +1,6 @@
 {
   "blogs": [
     {
-      "title": "My new blog",
-      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus voluptatum rem, magnam eum, praesentium corporis rerum omnis placeat deserunt laudantium, quibusdam quaerat?",
-      "author": "harold",
-      "id": 1
-    },
-    {
       "title": "Welcome blog",
       "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis doloremque commodi accusamus. Itaque commodi voluptate consequuntur quam voluptates fuga quaerat adipisci consequatur obcaecati. Expedita tenetur consequatur commodi perferendis vel aperiam officiis.",
       "author": "jeshua",
