@@ -17,7 +17,7 @@
 }
 
 .navbar h1 {
-	color: #f1356d;
+	color: #6627b9;
 }
 
 .navbar .links {
@@ -31,11 +31,11 @@
 }
 
 .navbar a:hover {
-	color: #f1356d;
+	color: #6627b9;
 }
 
 .site-name {
-	color: #f1356d;
+	color: #6627b9;
 }
 
 .content {
@@ -53,16 +53,32 @@
 }
 
 .blog-preview:hover {
-	background-color: #f0b3c5;
+	background-color: #c8a8f3;
 	box-shadow: 1px 3px 5px (rgba(0, 0, 0, .1));
 }
 
 .blog-preview h2 {
 	font-size: 20px;
-	color: #f1356d;
+	color: #6627b9;
 	margin-bottom: 8px;
 }
 
 .blog-preview a {
 	text-decoration: none;
+}
+
+.blog-details h2 {
+	font-size: 22px;
+	font-weight: 700;
+	color: #6627b9;
+	margin-bottom: 10px;
+}
+
+.blog-details p span {
+	color: #6627b9;
+	font-weight: 600;
+}
+
+.blog-details div {
+	margin: 20px 0;
 }

@@ -2,25 +2,25 @@
 	"blogs": [
 		{
 			"title": "My new blog",
-			"body": "lorem ipsum 123...",
+			"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus voluptatum rem, magnam eum, praesentium corporis rerum omnis placeat deserunt laudantium, quibusdam quaerat?",
 			"author": "harold",
 			"id": 1
 		},
 		{
 			"title": "Welcome blog",
-			"body": "lorem ipsum 456...",
+			"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis doloremque commodi accusamus. Itaque commodi voluptate consequuntur quam voluptates fuga quaerat adipisci consequatur obcaecati. Expedita tenetur consequatur commodi perferendis vel aperiam officiis.",
 			"author": "jeshua",
 			"id": 2
 		},
 		{
 			"title": "Welcome blog",
-			"body": "lorem ipsum 789...",
+			"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum culpa praesentium nam nisi in aspernatur expedita sunt quam? Natus, illum itaque incidunt assumenda cum excepturi odit placeat nulla iste. Laboriosam repudiandae deserunt quod corrupti odio assumenda vel illum accusantium, ratione corporis tempora officia unde.",
 			"author": "varde",
 			"id": 3
 		},
 		{
 			"title": "survival101",
-			"body": "lorem ipsum 000...",
+			"body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit magnam animi dolore fugit commodi accusamus assumenda reprehenderit! Fugit.",
 			"author": "harold",
 			"id": 4
 		}
